@@ -1,5 +1,5 @@
-import estandarizador_escenario2
 import streamlit as st
+import estandarizador_escenario2
 import time
 inicio = time.time()
 
